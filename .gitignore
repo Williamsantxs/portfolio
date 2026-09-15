@@ -1,0 +1,6 @@
+# configuracao local do Claude Code
+.claude/
+
+# lixo do Windows
+Thumbs.db
+desktop.ini
