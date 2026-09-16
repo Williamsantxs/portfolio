@@ -2,7 +2,7 @@
 
 Meu site pessoal, com os projetos que entreguei e o que estou construindo.
 
-**[williamsantos.netlify.app](https://williamsantos.netlify.app)**
+**[williamsantos.dev.br](https://williamsantos.dev.br)**
 
 ---
 
